@@ -26,4 +26,4 @@ git clone https://github.com/cmac038/ecdysis.git
 2. Input the path to the original image (either absolute path or from current directory).
 3. Follow prompts to scale your image!
 
-**Note: The scaled image will be saved to the directory from which the script is run.**
+**Note: The scaled image will be saved as a PNG to the directory from which the script is run.**
