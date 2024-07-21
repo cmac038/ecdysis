@@ -12,7 +12,7 @@ python3 --version
 
 Install python3 if it is missing; see [this article](https://realpython.com/installing-python/) if you need help.
 
-This script depends on Pillow, an image processing library. Installation instructions [here](https://pillow.readthedocs.io/en/latest/installation/basic-installation.html).
+This script depends on Pillow, an image processing library. Installation instructions can be found [here](https://pillow.readthedocs.io/en/latest/installation/basic-installation.html).
 
 Once these dependencies are installed, download the script via: 
 
@@ -22,7 +22,7 @@ git clone https://github.com/cmac038/ecdysis.git
 
 ### Usage
 
-1. Run `python3 path/to/ecdysis.py`
+1. Run `python3 path/to/ecdysis/ecdysis.py`
 2. Input the path to the original image (either absolute path or from current directory).
 3. Follow prompts to scale your image!
 
