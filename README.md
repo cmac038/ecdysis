@@ -10,9 +10,9 @@ Ensure python3 is installed by running the following from the terminal (UNIX-bas
 python3 --version
 ```
 
-Install python3 if it is missing; see (this article)[https://realpython.com/installing-python/] if you need help.
+Install python3 if it is missing; see [this article](https://realpython.com/installing-python/) if you need help.
 
-This script depends on Pillow, an image processing library. Installation instructions (here)[https://pillow.readthedocs.io/en/latest/installation/basic-installation.html].
+This script depends on Pillow, an image processing library. Installation instructions [here](https://pillow.readthedocs.io/en/latest/installation/basic-installation.html).
 
 Once these dependencies are installed, download the script via: 
 
