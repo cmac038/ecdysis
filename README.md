@@ -1,6 +1,6 @@
 # Ecdysis
 
-Simple interactive Python script for scaling images without affecting aspect ratio.
+Simple interactive Python script for scaling images without affecting aspect ratio.  
 Intended for use with UNIX-based systems, YMMV on Windows.
 
 ### Installation
