@@ -5,7 +5,7 @@ Intended for use with UNIX-based systems, YMMV on Windows.
 
 ### Installation
 
-Ensure python3 is installed by running the following from the terminal (UNIX-based systems):
+Ensure python3 is installed by running the following from the terminal:
 
 ```
 python3 --version
